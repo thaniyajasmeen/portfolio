@@ -16,4 +16,4 @@ export const aboutParagraph =
 
 export const contactEmail = 'jazzthaniya51@gmail.com';
 
-export const documentTitle = 'Hello, I am Thaniya Jasmeen | Business Analyst | Power BI Professional | Insight Enthusiast'
+export const documentTitle = 'Hello, I am Thaniya Jasmeen | Business Analyst | Power BI Professional | Insight Enthusiast';
